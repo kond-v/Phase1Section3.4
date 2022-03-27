@@ -24,7 +24,7 @@ static void doApp()
     {
         Console.WriteLine("This expression evaluates to true");
     }
-    if(xshort >6    && xint > -9000)
+    if(xshort >6 && xint > -9000)
     {
         Console.WriteLine("This expression evaluates to false");
     }
